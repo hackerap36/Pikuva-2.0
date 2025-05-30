@@ -1,0 +1,20 @@
+[
+  {
+    "title": "OpenAI",
+    "url": "https://openai.com",
+    "snippet": "OpenAI develops artificial intelligence technologies.",
+    "keywords": ["openai", "chatgpt", "ai"]
+  },
+  {
+    "title": "BeatsLine",
+    "url": "https://youtube.com/@BeatsLine",
+    "snippet": "BeatsLine is Ajit's official music channel.",
+    "keywords": ["beats", "music", "ajit"]
+  },
+  {
+    "title": "Python Programming",
+    "url": "https://www.python.org",
+    "snippet": "Python is a popular programming language.",
+    "keywords": ["python", "code", "programming"]
+  }
+]
